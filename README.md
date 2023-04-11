@@ -1,5 +1,7 @@
 # OpenShop - React Native Template for Building Ecommerce Web Apps
 
+<img src="https://raw.githubusercontent.com/avionmission/blog/611dc65e1b2063c7b1228f4a9fe9da8f797e1de6/images/2023/bannerforopenshoprepo.png">
+
 OpenShop is a react native template/starter pack for building ecommerce web apps. It provides you with a customizable and scalable base to build your own ecommerce app on. With OpenShop, you can add your own custom features and design, and launch your ecommerce app faster.
 
 ## Done:
